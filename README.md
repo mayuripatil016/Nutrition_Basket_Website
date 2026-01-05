@@ -1,5 +1,22 @@
-# Nutrition_Basket_Website
+# Nutrition Basket Website
 
-Designed responsive UI using HTML, CSS, JavaScript
-Used Flask & SQL only to support data flow (basic backend)
-Focused mainly on frontend user experience and design
+Frontend-focused E-commerce web application.
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Python (Flask)
+- SQLite
+
+## Features
+- Product listing
+- Cart functionality
+- BMI calculator
+- Responsive UI
+- User authentication (basic)
+
+## How to Run
+1. Install Flask
+2. Run: python app.py
+3. Open browser → http://127.0.0.1:5000/
